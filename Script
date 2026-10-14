@@ -1,0 +1,1 @@
+local P=game:GetService("Players")local L=P.LocalPlayer or P.Player
